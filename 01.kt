@@ -1,3 +1,6 @@
+//Kotlin is a statically-typed, general-purpose programming language. It is widely used to develop android applications.
+  - It runs on **JVM** so it can be run anywhere java can runs.
+
 fun main()
 {
     println("hello")
