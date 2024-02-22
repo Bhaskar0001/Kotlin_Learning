@@ -1,3 +1,7 @@
+//Kotlin, when expression is a conditional expression which returns the value. Kotlin, when expression is replacement of switch statement. Kotlin, when expression works as a switch statement of other language (Java, C++, C).
+
+
+
 fun main() {
     //when statement
     println("Enter Marks")
